@@ -16,4 +16,5 @@ The objectives of this repository are:
 * **Apply Concepts:** Create small projects to implement the materials that have been learned.
 
 ## 📚 Learning References
-* **YT: Kelas Terbuka** - `https://youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&si=aZ8EumrTcn5x5nca`
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&si=aZ8EumrTcn5x5nca)
+**Kelas Terbuka - Python Tutorial Playlist**
