@@ -1,19 +1,19 @@
-# 🚀 Perjalanan Belajar Python Saya
+# 🚀 My Python Learning Journey
 
-Selamat datang di repositori belajar Python saya! 👋
+Welcome to my Python learning repository! 👋
 
-Repositori ini adalah catatan perjalanan pribadi saya dalam mempelajari bahasa pemrograman **Python**, mulai dari konsep paling dasar hingga topik yang lebih lanjut.
+This repository is a personal record of my journey in learning the **Python** programming language, from the most basic concepts to more advanced topics.
 
 ---
 
-## 🎯 Tujuan
+## 🎯 Objectives
 
-Tujuan dari repositori ini adalah:
+The objectives of this repository are:
 
-* **Mendokumentasikan Progres:** Melacak topik apa saja yang sudah dan akan dipelajari.
-* **Menyimpan Kode:** Mengumpulkan *snippet* kode, latihan, dan solusi dari berbagai sumber belajar.
-* **Membangun Portofolio:** Menjadi bukti nyata dari proses belajar dan pemahaman saya terhadap Python.
-* **Menerapkan Konsep:** Membuat proyek-proyek kecil untuk mengaplikasikan materi yang telah dipelajari.
+* **Document Progress:** Track which topics have been studied and which are planned to be learned.
+* **Store Code:** Collect code snippets, exercises, and solutions from various learning sources.
+* **Build Portfolio:** Serve as tangible evidence of my learning process and understanding of Python.
+* **Apply Concepts:** Create small projects to implement the materials that have been learned.
 
-## 📚 Referensi Belajar
-* **YT : Kelas Terbuka** - `https://youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&si=aZ8EumrTcn5x5nca`
+## 📚 Learning References
+* **YT: Kelas Terbuka** - `https://youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&si=aZ8EumrTcn5x5nca`
