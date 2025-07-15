@@ -17,4 +17,4 @@ The objectives of this repository are:
 
 ## 📚 Learning References
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY&si=aZ8EumrTcn5x5nca)
-**Kelas Terbuka - Belajar Python Bahasa Indonesia**
+**Kelas Terbuka - Belajar Python Bahasa Indonesia [Versi Baru]**
